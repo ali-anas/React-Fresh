@@ -7,10 +7,10 @@
       "reminder": false
     },
     {
-      "text": "New Task",
-      "day": "Sunday",
+      "text": "Add new Task",
+      "day": "Tuesday 30.03.2021",
       "reminder": true,
-      "id": 2
+      "id": 3
     }
   ]
 }
